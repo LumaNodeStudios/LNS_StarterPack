@@ -112,3 +112,5 @@ RegisterServerEvent("LNS_StarterPack:claimPack", function()
         })
     end)
 end)
+
+lib.versionCheck('LumaNodeStudios/LNS_StarterPack')
