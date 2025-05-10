@@ -1,0 +1,1 @@
+ALTER TABLE `players` ADD COLUMN `starter_pack_claimed` TINYINT(1) DEFAULT 0;
